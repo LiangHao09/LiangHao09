@@ -1,5 +1,4 @@
 # 💫 About Me:
-At this moment I am a student at the University of Costa Rica.<br>I also like to learn cybersecurity offensively on my own.<br>I am also preparing to be a full stack developer through the Oracle company.
 
 
 ## 🌐 Socials:
